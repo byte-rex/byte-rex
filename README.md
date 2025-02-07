@@ -31,7 +31,7 @@ I'm a passionate developer with a love for solving problems and creating efficie
 ---
 
 ## 🧩 Fun Facts
-- 🦖 Always ready to "byte" into challenges like a coding T-Rex!  
+- 🦁 Always ready to "byte" into challenges like a coding Rex!  
 
 ---
 
