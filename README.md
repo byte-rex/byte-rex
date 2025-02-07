@@ -1,9 +1,9 @@
-# 👋 Hello, World! I'm `@byte-rex`  
+### Hello, World!👋  I'm `@byte-rex`  
 
-🌟 **Welcome to my GitHub Profile!**  
+💬 **Let's have a chat if you want some development done.**  
 
 ## 🚀 About Me  
-I'm a passionate developer with a love for solving problems and creating efficient, scalable solutions. I specialize in **Full-Stack Development** and have experience in **.NET Environment**.  
+I'm a passionate developer with a "love" for solving problems and creating efficient, scalable solutions. I specialize in **Full-Stack Development** and have experience in **.NET Environment**.  
 
 - 🔭 Currently working on: -
 - 🌱 Currently learning: -
